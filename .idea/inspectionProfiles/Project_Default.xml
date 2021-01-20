@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="LexicoScan.Parser.criaTabela_Resultado" />
+          <option value="LexicoScan.lexico.criaTabela_Resultado" />
+          <option value="LexicoScan.lexico.lerArquivos" />
+          <option value="LexicoScan.lexico.tipoToken" />
+          <option value="LexicoScan.lexico.erro_rastreio" />
+          <option value="lexico.Analisa" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
